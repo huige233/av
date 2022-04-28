@@ -1,2 +1,2 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=CoelacanthusHex&show_icons=true&count_private=true&include_all_commits=true&line_height=28&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoelacanthusHex&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoelacanthusHex&layout=compact&langs_count=14&hide=glsl,html,js)](https://github.com/anuraghazra/github-readme-stats)
