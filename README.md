@@ -4,4 +4,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huige233&layout=compact&langs_count=14&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huige233&layout=compact&langs_count=20&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
