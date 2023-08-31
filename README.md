@@ -5,3 +5,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huige233&layout=compact&langs_count=20&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=huige233)](https://github.com/anuraghazra/github-readme-stats)
